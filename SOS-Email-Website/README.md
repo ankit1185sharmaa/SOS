@@ -7,6 +7,10 @@ This website is designed to serve our people at times of emergency. It features 
 ## ABOUT THE TEAM 
 Our goal is to promote government services with redefined efficiency, upgradation in system's approach to provide maximum quality output thereby is adaptable to the system and the users, without using any external resources. Our Team’s sole Purpose is to render enhanced and versatile solutions for common problems that eases ones life and raises our standard of living with amending strategies. Our Vision lies in working for Smart India, to build our nation with efficient and logical thinking for the upcoming decade, marching ahead we’ll lead the Developed nations bringing Pride to our Motherland.
 
+## TECH STACK USED
+
+Django Stack: Django, python and MySQL as Database
+
 ## INSTALLATION
 1. Install python for respective OS: [Click here]( https://www.python.org/downloads/)
 
