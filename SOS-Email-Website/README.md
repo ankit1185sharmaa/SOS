@@ -17,7 +17,8 @@ Our goal is to promote government services with redefined efficiency, upgradatio
 ## DO CHANGES IN CODE
 
 1. Navigate to project folder where settings.py present and do following changes in code (present at the end of settings.py file)
-   *Enter your email and password for gmail account from which mail has to be send*
+
+   *Enter your email and password of gmail account from which mail has to be send*
    ```
    EMAIL_HOST_USER = 'your_email@gmail.com'
    EMAIL_HOST_PASSWORD = 'your_password'
