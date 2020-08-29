@@ -34,6 +34,7 @@ Django Stack: Django, python and MySQL as Database
    
    b.) Since we're running website on local server therefore we haven't enabled SSL certificate for this website yet.
 
+2. Reciever's email(gmail accounts) list we've set in the code itself. We can make an interface to enter reciever's email. We'll implement in future as per the requirements and suggestions. 
 
 ## STARTING LOCAL DEVELOPMENT SERVER
 
