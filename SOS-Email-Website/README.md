@@ -14,6 +14,16 @@ Our goal is to promote government services with redefined efficiency, upgradatio
 
 3. Install Django for respective OS: [Click here](https://www.thecrazyprogrammer.com/2018/09/how-to-install-django.html)
 
+## DO CHANGES IN CODE
+
+1. Navigate to project folder where settings.py present and do following changes in code (present at the end of settings.py file)
+   *Enter your email and password for gmail account from which mail has to be send*
+   ```
+   EMAIL_HOST_USER = 'your_email@gmail.com'
+   EMAIL_HOST_PASSWORD = 'your_password'
+   ```
+
+
 ## STARTING LOCAL DEVELOPMENT SERVER
 
 1. Open command prompt
