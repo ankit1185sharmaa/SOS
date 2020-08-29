@@ -42,7 +42,11 @@ Django Stack: Django, python and MySQL as Database
 2. Navigate to project folder where manage.py present 
 
 3. Run following command 
-  ```` python manage.py runserver  ````
+
+  ```
+   python manage.py runserver  
+
+  ```
 
 ## RUN THE WEBSITE AS FOLLOWS
 
