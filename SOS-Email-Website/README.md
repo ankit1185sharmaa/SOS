@@ -27,6 +27,12 @@ Django Stack: Django, python and MySQL as Database
    EMAIL_HOST_USER = 'your_email@gmail.com'
    EMAIL_HOST_PASSWORD = 'your_password'
    ```
+   
+   Note : 
+   
+   a.) Allow EMAIL_HOST_USER to allow *less secure apps* to send mail(gmail account), since this website is on localhost now. You won't        have to allow  *less secure apps* to access EMAIL_HOST_USER once we have SSL certificate enabled for this website. 
+   
+   b.) Since we're running website on local server therefore we haven't enabled SSL certificate for this website yet.
 
 
 ## STARTING LOCAL DEVELOPMENT SERVER
